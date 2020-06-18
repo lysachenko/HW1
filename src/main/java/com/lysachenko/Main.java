@@ -20,7 +20,7 @@ public class Main {
         System.out.println("b = " + b
                 + " s = " + s
                 + " i = " + i
-                + " l = " + l 
+                + " l = " + l
                 + " f = " + f
                 + " d = " + d);
         System.out.println("b + b = " + sum);
